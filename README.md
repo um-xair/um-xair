@@ -44,10 +44,12 @@
 <br/> 
 
 ## Support Me ! 🍵🫶  
-<div align="center">
-            <a href="https://www.buymeacoffee.com/html.devlyss" target="_blank" style="display: inline-block;" style="width:20px;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
+<div align="left">
+    <a href="https://www.buymeacoffee.com/html.devlyss" target="_blank" style="display: inline-block; width: 120px;">
+        <img
+            src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
+            align="center"
+        />
+    </a>
+</div>
+
