@@ -9,12 +9,14 @@
 ### <div align="center">Hi! I'm a skilled Website Designer and Developer 💻 
 
 📌 Expertise in HTML, CSS, and JavaScript🧬⚙️
+
 👩🏻‍💻 Check out my portfolio : https://alyssa-html-devlyss-portfolio.netlify.app/ for a glimpse of my projects. 
+
 🤝Let's chat if you have any questions or if you're looking to collaborate! </div>  
 
 <br/>  
 
-## My Skills   
+### My Skills   
 <div align="center">  
 <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
 <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
