@@ -2,7 +2,7 @@
 
 ### ALYSSA | HTML.DEVLYSS 💻  
 <div align="center">
-<img src="https://alyssa-html-devlyss-portfolio.netlify.app/images/profile.jpg" align="center" style="width: 100%" />
+<img src="https://alyssa-html-devlyss-portfolio.netlify.app/images/profile.jpg" align="center" style="width: 50%" />
 </div>  
   
 
