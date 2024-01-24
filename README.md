@@ -6,7 +6,7 @@
 </div>  
   
 
-### <div align="center">Hi! I'm a skilled Website Designer and Developer 💻 
+### <div align="center">Hi! I'm a Front End Developer Developer 💻 
 
 📌 Expertise in HTML, CSS, and JavaScript🧬⚙️
 
