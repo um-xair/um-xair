@@ -10,7 +10,7 @@
 
 📌 Expertise in HTML, CSS, and JavaScript🧬⚙️
 
-👩🏻‍💻 Check out my portfolio : https://alyssa-html-devlyss-portfolio.netlify.app/ for a glimpse of my projects. 
+👩🏻‍💻 Check out my portfolio : https://portfolio-alyssa.netlify.app/ for a glimpse of my projects. 
 
 🤝Let's chat if you have any questions or if you're looking to collaborate! </div>  
 
