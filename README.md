@@ -12,7 +12,7 @@
 
 👩🏻‍💻 Check out my portfolio : https://portfolio-alyssa.netlify.app/ for a glimpse of my projects. 
 
-🤝R4 Punya </div>  
+🤝<b>Rawzeens Punya </b></div>  
 
 <br/>  
 
