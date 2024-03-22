@@ -43,11 +43,12 @@
 
 <hr>
 
-<div align="center">
+<div style="text-align: center;">
     <h3>Support Me! ☕️</h3>
 </div>
-<div align="center">
+<div style="text-align: center;">
     <a href="https://www.buymeacoffee.com/html.devlyss">
-        <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/html.devlyss" />
+        <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="https://www.buymeacoffee.com/html.devlyss" />
     </a>
 </div>
+
