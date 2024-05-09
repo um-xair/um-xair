@@ -1,5 +1,5 @@
 <div align="center">
-    <img  style="border-radius:100px" src="https://scontent.fkul5-3.fna.fbcdn.net/v/t39.30808-6/421089155_936687697787899_1314942642240063193_n.jpg?_nc_cat=104&ccb=1-7&_nc_sid=5f2048&_nc_eui2=AeGHvPsnlcAbol1Y93Q3sed3Y08qyM425CNjTyrIzjbkIy8kZrif4iWMK9btU0GANiFwMO8PnH7qiQDJis2DhSFc&_nc_ohc=7DCsgxPweRgAX_y_g-6&_nc_zt=23&_nc_ht=scontent.fkul5-3.fna&oh=00_AfBkoZds3RvdLmS5Panf1S5vlXkhdXXN1HuXeC_U1RJHUg&oe=6601B75F" align="center" style="width: 100%; border-radius: 50%;" />
+    <img  style="border-radius:100px" src="https:" align="center" style="width: 100%; border-radius: 50%;" />
 </div>
 
 <div align="center">
