@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-    <h2>Hi! I'm Alyssa, a Front End Developer 💻</h2>
+    <h2>Hi! I'm UM -XAIR, a Front End Developer 💻</h2>
     <p style="font-size: 18px;"><b>Expertise in HTML, CSS, and JavaScript 🧬⚙️</b></p>
     <p style="font-size: 18px;">Check out my portfolio: <a href="https://portfolio-alyssa.netlify.app/" target="_blank">portfolio-alyssa.netlify.app</a> for a glimpse of my projects.</p>
     <p style="font-size: 18px;">🤝 <b>Connect with me: Rawzeens Punya</b></p>
@@ -27,7 +27,7 @@
     <h3>Connect with me</h3>
 </div>
 <div align="center">
-    <a href="https://github.com/html-devlyss" target="_blank">
+    <a href="https://github.com/um-xair" target="_blank">
         <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px; margin-right: 10px;" />
     </a>
     <a href="https://instagram.com/qver505" target="_blank">
