@@ -1,38 +1,27 @@
-<div align="center">
-    <img  style="border-radius:100px" src="https:" align="center" style="width: 100%; border-radius: 50%;" />
-</div>
+![Header](https://github.com/um-xair/html-css-js-personal-portfolio-dark-light-mode/blob/6c303c730884a86883e53713faa7c948430b1403/images/UM-XAIR.png)
 
 <div align="center">
-    <h2>Hi! I'm UM -XAIR, a Front End Developer 💻</h2>
-    <p style="font-size: 18px;"><b>Expertise in HTML, CSS, and JavaScript 🧬⚙️</b></p>
-    <p style="font-size: 18px;">🤝 <b>Connect with me: Rawzeens Punya</b></p>
-</div>
-
-<hr>
-
-<div align="center">
-    <h3>My Skills</h3>
-</div>
-<div align="center">
-    <a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>
-    <a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>
-    <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px;" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="40" alt="html5 logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" height="40" alt="css3 logo" />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" alt="tailwind logo" />
+  <img width="12" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="40" alt="figma logo" />
+  <img width="12" />
 </div>
 
 <hr>
 
-<div align="center">
-    <h3>Connect with me</h3>
-</div>
-<div align="center">
-    <a href="https://github.com/um-xair" target="_blank">
-        <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="github" style="margin-bottom: 5px; margin-right: 10px;" />
-    </a>
-    <a href="https://instagram.com/qver505" target="_blank">
-        <img src="https://img.shields.io/badge/instagram-%23bc2a8d.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" style="margin-bottom: 5px; margin-right: 10px;" />
-    </a>
-    <a href="https://www.tiktok.com/@html.devlyss" target="_blank">
-        <img src="https://img.shields.io/badge/tiktok-%23000000.svg?&style=for-the-badge&logo=tiktok&logoColor=white" alt="tiktok" style="margin-bottom: 5px; margin-right: 10px;" />
-    </a>
-</div>
+<p align="center" style="font-weight: bold; font-size: 20px;"><b>I am a Front End Developer</b></p>
+<p align="center" style="font-size: 18px;">Connect with me: Rawzeens's</p>
 
+<h3 align="center">🔥   My Stats :</h3>
+
+###
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=um-xair&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+</div>
