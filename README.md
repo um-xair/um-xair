@@ -12,8 +12,7 @@
 
 <hr>
 
-<p align="center" style="font-weight: bold; font-size: 20px;"><b>I am a Front End Developer</b></p>
-<p align="center" style="font-size: 18px;">Connect with me: Rawzeens's</p>
+<p align="center" style="font-weight: bold; font-size: 20px;"><b>Rawzeen's Front End Developer</b></p>
 
 <h3 align="center">🔥   My Stats :</h3>
 
