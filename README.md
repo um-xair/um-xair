@@ -5,7 +5,7 @@
   <img src="https://img.shields.io/badge/CSS-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="CSS" height="50" />
   <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" height="50" />
   <img src="https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?&style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" height="50" />
-  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" alt="Figma" height="50" />
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white&color=f76e5f" alt="Figma" height="50" />
   <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" height="50" />
   <img src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?&style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" height="50" />
 </div>
