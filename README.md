@@ -12,11 +12,14 @@
 
 <hr>
 
-<p align="center" style="font-weight: bold; font-size: 20px;"><b>Rawzeen's Front End Developer</b></p>
+<p align="center" style="font-weight: bold; font-size: 20px;"><b>Hello, I'm DevXair 👋</b></p>
+<p align="center">
+  I’m a <b>Front-End Developer</b> passionate about creating sleek, user-friendly web experiences. I collaborate with <b>Rawzeens Tech</b>, a powerhouse in <b>Full-Stack Development</b>, to deliver innovative solutions that blend design and functionality. Together, we form <b>R4XN</b>—a dynamic duo dedicated to crafting cutting-edge digital products that leave a lasting impact.
+</p>
 
-<h3 align="center">🔥   My Stats :</h3>
+<hr>
 
-###
+<h3 align="center">🔥 My Stats:</h3>
 
 <div align="center">
   <a href="https://git.io/streak-stats">
