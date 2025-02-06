@@ -1,4 +1,4 @@
-![Header](https://github.com/um-xair/html-css-js-personal-portfolio-dark-light-mode/blob/6c303c730884a86883e53713faa7c948430b1403/images/UM-XAIR.png)
+![Header](https://github.com/um-xair/devxair-developer-pack/blob/main/assets/R4XN.png)
 
 <div align="center">
   <img src="https://img.shields.io/badge/HTML-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="HTML" height="50" />
@@ -12,9 +12,9 @@
 
 <hr>
 
-<p align="center" style="font-weight: bold; font-size: 20px;"><b>Hello, I'm DevXair 👋</b></p>
+<p align="center" style="font-weight: bold; font-size: 20px;"><b>Hello, I'm DEVXAIR 👋</b></p>
 <p align="center">
-  I’m a <b>Front-End Developer</b> passionate about creating sleek, user-friendly web experiences. I collaborate with <b>Rawzeens Tech</b>, a powerhouse in <b>Full-Stack Development</b>, to deliver innovative solutions that blend design and functionality. Together, we form <b>R4XN</b>—a dynamic duo dedicated to crafting cutting-edge digital products that leave a lasting impact.
+  I’m a <b>Front-End Developer</b> passionate about creating sleek, user-friendly web experiences. I collaborate with <a href="https://github.com/Rawzeens" target="_blank"><b>RAWZEENS TECH</b></a>, a powerhouse in <b>Full-Stack Development</b>, to deliver innovative solutions that blend design and functionality. Together, we form <b>R4XN</b>—a dynamic duo dedicated to crafting cutting-edge digital products that leave a lasting impact.
 </p>
 
 <hr>
