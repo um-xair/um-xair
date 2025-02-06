@@ -17,9 +17,11 @@
   I’m a <b>Front-End Developer</b> passionate about creating sleek, user-friendly web experiences. I collaborate with <a href="https://github.com/Rawzeens" target="_blank"><b>RAWZEENS TECH</b></a>, a powerhouse in <b>Full-Stack Development</b>, to deliver innovative solutions that blend design and functionality. Together, we form <b>R4XN</b>—a dynamic duo dedicated to crafting cutting-edge digital products that leave a lasting impact.
 </p>
 
-<p align="center" style="font-weight: bold; font-size: 20px;"><b>Together, we form <b>R4XN</b></b></p>
 <p align="center">
-  —a dynamic duo dedicated to crafting cutting-edge digital products that leave a lasting impact.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=800&size=40&duration=3000&pause=1000&color=6C23FF&center=true&vCenter=true&width=600&height=100&lines=Together%2C+we+form+R4XN" alt="Typing SVG" />
+</p>
+<p align="center">
+—a dynamic duo dedicated to crafting cutting-edge digital products that leave a lasting impact.
 </p>
 
 <hr>
