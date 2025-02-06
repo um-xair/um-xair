@@ -17,6 +17,11 @@
   I’m a <b>Front-End Developer</b> passionate about creating sleek, user-friendly web experiences. I collaborate with <a href="https://github.com/Rawzeens" target="_blank"><b>RAWZEENS TECH</b></a>, a powerhouse in <b>Full-Stack Development</b>, to deliver innovative solutions that blend design and functionality. Together, we form <b>R4XN</b>—a dynamic duo dedicated to crafting cutting-edge digital products that leave a lasting impact.
 </p>
 
+<p align="center" style="font-weight: bold; font-size: 20px;"><b>Together, we form <b>R4XN</b></b></p>
+<p align="center">
+  —a dynamic duo dedicated to crafting cutting-edge digital products that leave a lasting impact.
+</p>
+
 <hr>
 
 <h3 align="center">🔥 My Stats:</h3>
